@@ -11,3 +11,9 @@ http://www.cnblogs.com/happyframework/p/3325560.html
 
 3.可以参看 mysql 驱动加载的源码，通过了解此机制可以深入了解SPI的加载等
 http://weistar.iteye.com/blog/1769641
+
+
+其它：
+1.sun.misc.Service 源码
+http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/6-b14/sun/misc/Service.java#Service.LazyIterator
+
